@@ -19,3 +19,4 @@ to use for your circuit in the bench process.
 -   State Circuit prover benches. -> `DEGREE=18 make state_bench`
 
 You can also run all benchmarks by running: `make circuit_benches DEGREE=18`.
+TY
